@@ -1,0 +1,21 @@
+{
+  "name": "svelte-lookat",
+  "version": "1.0.0",
+  "description": "Make div follow mouse/face, phone gyro support, for svelte.",
+  "main": "LookAt.svelte",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lookat",
+    "follow",
+    "mouse",
+    "gyro"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThaUnknown/svelte-lookat.git"
+  },
+  "author": "ThaUnknown",
+  "license": "MIT"
+}
