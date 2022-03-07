@@ -14,7 +14,7 @@
     'deviceorientation',
     ({ beta, gamma }) => {
       if (beta && gamma) {
-        x = ((-beta - 80) / 40) * intensity
+        x = ((-beta + 80) / 40) * intensity
         y = (-gamma / 40) * intensity
       }
     },
